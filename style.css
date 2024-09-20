@@ -18,7 +18,7 @@ body {
 
 .search-box input {
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 8px;
     border: 1px solid #ccc;
     width: 200px;
 }
@@ -34,4 +34,8 @@ body {
 
 .weather-result {
     margin-top: 20px;
+}
+
+button:hover {
+    background-color: #024fa1;
 }
